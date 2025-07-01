@@ -7,7 +7,7 @@
 <p align="center">
   Studying Full Stack Development at <strong>U Fidélitas</strong> and Business Administration at <strong>TEC</strong><br/>
   Passionate about AI, digital marketing, and building things that blend creativity with strategy<br/>
-  Founder of <strong>HMMA</strong>, where I create content, teach and sell awesome products.
+  Founder of <strong>HMMA</strong>, where I create content, teach and sell awesome products
 </p>
 
 ---
