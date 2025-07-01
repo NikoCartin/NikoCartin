@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Nicolás Cartín Reyes</h1>
+<h1 align="center">Hey, I'm Nícolas Cartín Reyes</h1>
 
 <p align="center">
   Entrepreneur · Full Stack Developer · Tech enthusiast since childhood
