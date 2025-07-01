@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nicolás Cartín Reyes</h1>
 
 <p align="center">
-  Entrepreneur · Full Stack Developer (soon) · Tech enthusiast since childhood
+  Entrepreneur · Full Stack Developer · Tech enthusiast since childhood
 </p>
 
 <p align="center">
