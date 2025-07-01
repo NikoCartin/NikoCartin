@@ -16,7 +16,7 @@
 
 - **MarbellaCR**  
   *E-commerce site based in Costa Rica for imported Brazilian fashion by Lez a Lez (Urban Beachwear).*  
-  I led the digital strategy, content architecture, and SEO implementation to launch and grow the brand’s online presence in a new market.  
+  I developed optimized code and implemented a fully customized WordPress site with WooCommerce integration. My work included Facebook catalog integration, custom styling, layout design, and graphic editing for key visuals. I also led the SEO optimization strategy to improve visibility and search performance in a competitive market.  
   [Live Site](https://www.marbellacr.com/)
 
 ---
