@@ -25,7 +25,7 @@
 [react-vs-vanilla-demo](https://github.com/NikoCartin/react-vs-vanilla-demo)  
 Comparative demo exploring the differences between building interactive UIs using pure Vanilla JavaScript versus using the React framework. Ideal for understanding state management, DOM handling, and scalability at a glance.
 
-- 🔗 [Live Site]([https://codesandbox.io/p/github/NikoCartin/react-vs-vanilla-demo](https://vzmfs3.csb.app/))
+- 🔗 [CodeSandbox Live Preview]([https://codesandbox.io/p/github/NikoCartin/react-vs-vanilla-demo](https://vzmfs3.csb.app/))
 - Tech used: `React`, `JavaScript`, `HTML`, `CSS`
 
 ---
@@ -35,7 +35,7 @@ Comparative demo exploring the differences between building interactive UIs usin
 [react-essentials-start](https://github.com/NikoCartin/react-essentials-start)  
 React Essentials Start is a starter project designed to help you learn and practice the fundamental concepts of React, such as components, props, state, and dynamic rendering. It is ideal for beginners who want to understand how to build interactive web applications from scratch with React.
 
-- 🔗 [CodeSandbox Live Preview]((https://vzmfs3.csb.app/))
+- 🔗 [Live Site](https://vzmfs3.csb.app/)
 - Tech used: `React`, `JavaScript`, `HTML`, `CSS`
 
 ---
