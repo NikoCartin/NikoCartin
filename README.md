@@ -30,6 +30,16 @@ Comparative demo exploring the differences between building interactive UIs usin
 
 ---
 
+### Demo: React Essentials
+
+[react-vs-vanilla-demo](https://github.com/NikoCartin/react-essentials-start))  
+React Essentials Start is a starter project designed to help you learn and practice the fundamental concepts of React, such as components, props, state, and dynamic rendering. It is ideal for beginners who want to understand how to build interactive web applications from scratch with React.
+
+- 🔗 [CodeSandbox Live Preview](https://codesandbox.io/p/github/NikoCartin/react-essentials-start)
+- Tech used: `React`, `JavaScript`, `HTML`, `CSS`
+
+---
+
 ### Tech I'm Into
 
 `HTML/CSS` · `JavaScript` · `React` · `Vue.js`  
