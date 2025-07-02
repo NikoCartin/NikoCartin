@@ -44,8 +44,8 @@ React Essentials Start is a starter project designed to help you learn and pract
 ### Tech I'm Into
 
 `HTML/CSS` · `JavaScript` · `React` · `Vue.js`  
-`Node.js` · `PHP` · `Python` · `SQL`  
-`Full Stack Web Development` · `Digital Strategy` · `Bootstrap`
+`Node.js` · `PHP` · `Python` · `SQL`  `Python`
+`Full Stack Web Development` · `Digital Strategy` · `Bootstrap` 
 
 ---
 
