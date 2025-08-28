@@ -54,11 +54,13 @@ React Essentials Start is a starter project designed to help you learn and pract
 
 ---
 
-- **MarbellaCR** (Website Under Redesign)
-  *E-commerce site based in Costa Rica for imported Brazilian fashion by Lez a Lez (Urban Beachwear).*  
-  I developed optimized code and implemented a fully customized WordPress site with WooCommerce integration. My work included Facebook catalog integration, custom styling, layout design, and graphic editing for key visuals. I also led the SEO optimization strategy to improve visibility and search performance in a competitive market.  
- - [Live Site](https://www.marbellacr.com/)
--  Tech used: `CSS`, `JavaScript`, `HTML`, `PHP`
+### MarbellaCR E-commerce Platform
+
+[MarbellaCR](https://www.marbellacr.com/) (Website Under Redesign)  
+E-commerce site based in Costa Rica for imported Brazilian fashion by Lez a Lez (Urban Beachwear). I developed optimized code and implemented a fully customized WordPress site with WooCommerce integration. My work included Facebook catalog integration, custom styling, layout design, and graphic editing for key visuals. I also led the SEO optimization strategy to improve visibility and search performance in a competitive market.
+
+- [Live Site](https://www.marbellacr.com/)
+- Tech used: `WordPress`, `WooCommerce`, `CSS`, `JavaScript`, `HTML`, `PHP`, `SEO`
 
 ---
 
