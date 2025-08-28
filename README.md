@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nícolas Cartín Reyes</h1>
 
 <p align="center">
-  Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
+Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 </p>
 
 <p align="center">
@@ -14,13 +14,24 @@
 
 ### Projects & Experiments
 
-- **MarbellaCR**  ( **Website Under Redesign** )
+### Sistema de Carrito de Compras con AJAX
+
+[carrito-compras-ajax](https://github.com/NikoCartin/carrito-compras-ajax)  
+Sistema completo de carrito de compras desarrollado con tecnologías web nativas que implementa AJAX para comunicación asíncrona y sesiones PHP para el manejo del estado. El proyecto incluye gestión dinámica de productos, carrito de compras en tiempo real, y un sistema de historial de compras. Desarrollado como proyecto académico que demuestra el dominio de conceptos fundamentales de desarrollo web sin frameworks.
+
+- 🔗 [Ver Código en GitHub](https://github.com/NikoCartin/carrito-compras-ajax)
+- Tech used: `PHP`, `JavaScript`, `AJAX`, `HTML`, `CSS`, `Sessions`
+
+---
+
+- **MarbellaCR** (Website Under Redesign)
   *E-commerce site based in Costa Rica for imported Brazilian fashion by Lez a Lez (Urban Beachwear).*  
   I developed optimized code and implemented a fully customized WordPress site with WooCommerce integration. My work included Facebook catalog integration, custom styling, layout design, and graphic editing for key visuals. I also led the SEO optimization strategy to improve visibility and search performance in a competitive market.  
  - 🔗 [Live Site](https://www.marbellacr.com/)
 -  Tech used: `CSS`, `JavaScript`, `HTML`, `PHP`
 
-  
+---
+
 ### Demo: React vs Vanilla JavaScript
 
 [react-vs-vanilla-demo](https://github.com/NikoCartin/react-vs-vanilla-demo)  
@@ -44,7 +55,7 @@ React Essentials Start is a starter project designed to help you learn and pract
 ### Tech I'm Into
 
 `HTML/CSS` · `JavaScript` · `React` · `Vue.js`  
-`Node.js` · `PHP` · `Python` · `SQL`  `Python`
+`Node.js` · `PHP` · `Python` · `SQL`  
 `Full Stack Web Development` · `Digital Strategy` · `Bootstrap` 
 
 ---
