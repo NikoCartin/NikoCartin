@@ -50,12 +50,6 @@ Complete e-commerce and content platform for martial arts community in Costa Ric
 [HMMADemoJquery](https://github.com/NikoCartin/HMMADemoJquery)  
 Proyecto de demostración que implementa funcionalidades interactivas utilizando jQuery para la manipulación del DOM y manejo de eventos. Incluye ejemplos prácticos de efectos, animaciones y funciones dinámicas que demuestran el poder de jQuery para crear interfaces web responsivas e interactivas.
 
-<div align="center">
-  <img src="./images/jquery-demo.png" alt="Demo de jQuery Interactive" width="600"/>
-  <br/>
-  <em>Ejemplos de manipulación del DOM y efectos interactivos con jQuery</em>
-</div>
-
 - [Ver Código en GitHub](https://github.com/NikoCartin/HMMADemoJquery)
 - Tech used: `jQuery`, `JavaScript`, `HTML`, `CSS`, `DOM Manipulation`
 
@@ -66,12 +60,6 @@ Proyecto de demostración que implementa funcionalidades interactivas utilizando
 [react-vs-vanilla-demo](https://github.com/NikoCartin/react-vs-vanilla-demo)  
 Comparative demo exploring the differences between building interactive UIs using pure Vanilla JavaScript versus using the React framework. Ideal for understanding state management, DOM handling, and scalability at a glance.
 
-<div align="center">
-  <img src="./images/react-vs-vanilla-demo.png" alt="Demo React vs Vanilla JS" width="600"/>
-  <br/>
-  <em>Comparación visual entre implementaciones en React y JavaScript vanilla</em>
-</div>
-
 - [CodeSandbox Live Preview](https://codesandbox.io/p/github/NikoCartin/react-vs-vanilla-demo)
 - Tech used: `React`, `JavaScript`, `HTML`, `CSS`
 
@@ -81,12 +69,6 @@ Comparative demo exploring the differences between building interactive UIs usin
 
 [react-essentials-start](https://github.com/NikoCartin/react-essentials-start)  
 React Essentials Start is a starter project designed to help you learn and practice the fundamental concepts of React, such as components, props, state, and dynamic rendering. It is ideal for beginners who want to understand how to build interactive web applications from scratch with React.
-
-<div align="center">
-  <img src="./images/react-essentials-demo.png" alt="Demo React Essentials" width="600"/>
-  <br/>
-  <em>Aplicación React mostrando conceptos fundamentales de componentes y estado</em>
-</div>
 
 - [Live Site](https://vzmfs3.csb.app/)
 - Tech used: `React`, `JavaScript`, `HTML`, `CSS`
