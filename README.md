@@ -14,12 +14,12 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 
 ### Projects & Experiments
 
-### Sistema de Carrito de Compras con AJAX
+### AJAX Shopping Cart System
 
 [carrito-compras-ajax](https://github.com/NikoCartin/carrito-compras-ajax)  
-Sistema completo de carrito de compras desarrollado con tecnologías web nativas que implementa AJAX para comunicación asíncrona y sesiones PHP para el manejo del estado. El proyecto incluye gestión dinámica de productos, carrito de compras en tiempo real, y un sistema de historial de compras. Desarrollado como proyecto académico que demuestra el dominio de conceptos fundamentales de desarrollo web sin frameworks.
+Complete shopping cart system developed with native web technologies implementing AJAX for asynchronous communication and PHP sessions for state management. The project includes dynamic product management, real-time shopping cart, and purchase history system. Developed as an academic project demonstrating mastery of fundamental web development concepts without frameworks.
 
-- [Ver Código en GitHub](https://github.com/NikoCartin/carrito-compras-ajax)
+- [View Code on GitHub](https://github.com/NikoCartin/carrito-compras-ajax)
 - Tech used: `PHP`, `JavaScript`, `AJAX`, `HTML`, `CSS`, `Sessions`
 
 ---
@@ -29,7 +29,7 @@ Sistema completo de carrito de compras desarrollado con tecnologías web nativas
 [ecommerce-php](https://github.com/NikoCartin/ecommerce-php)  
 Complete e-commerce system built with vanilla PHP and MySQL database. Features a comprehensive product catalog, shopping cart management, customer inquiry system, and full checkout process. Includes responsive design with Bootstrap 5, session management, and database persistence. Demonstrates advanced PHP backend development and database design skills.
 
-- [Ver Código en GitHub](https://github.com/NikoCartin/ecommerce-php)
+- [View Code on GitHub](https://github.com/NikoCartin/ecommerce-php)
 - Tech used: `PHP`, `MySQL`, `HTML`, `CSS`, `Bootstrap 5`, `JavaScript`, `Apache`
 
 ---
@@ -37,7 +37,7 @@ Complete e-commerce system built with vanilla PHP and MySQL database. Features a
 ### Hablemos de MMA - E-commerce & Content Platform
 
 [hablemosdemma.com](https://hablemosdemma.com/)  
-Complete e-commerce and content platform for martial arts community in Costa Rica. Built with Hostinger's website builder, featuring product catalog for martial arts equipment, integrated blog, social media presence across multiple platforms, and community engagement tools. The platform combines e-commerce functionality with educational content including interviews, tutorials, and fight analysis.
+Complete e-commerce and content platform for the martial arts community in Costa Rica. Built with Hostinger's website builder, featuring product catalog for martial arts equipment, integrated blog, social media presence across multiple platforms, and community engagement tools. The platform combines e-commerce functionality with educational content including interviews, tutorials, and fight analysis.
 
 - [Live Site](https://hablemosdemma.com/)
 - [YouTube Channel](https://youtube.com/@HablemosdeMMA)
@@ -48,9 +48,9 @@ Complete e-commerce and content platform for martial arts community in Costa Ric
 ### Demo: jQuery Interactive Web
 
 [HMMADemoJquery](https://github.com/NikoCartin/HMMADemoJquery)  
-Proyecto de demostración que implementa funcionalidades interactivas utilizando jQuery para la manipulación del DOM y manejo de eventos. Incluye ejemplos prácticos de efectos, animaciones y funciones dinámicas que demuestran el poder de jQuery para crear interfaces web responsivas e interactivas.
+Demonstration project implementing interactive functionalities using jQuery for DOM manipulation and event handling. Includes practical examples of effects, animations, and dynamic functions that demonstrate the power of jQuery for creating responsive and interactive web interfaces.
 
-- [Ver Código en GitHub](https://github.com/NikoCartin/HMMADemoJquery)
+- [View Code on GitHub](https://github.com/NikoCartin/HMMADemoJquery)
 - Tech used: `jQuery`, `JavaScript`, `HTML`, `CSS`, `DOM Manipulation`
 
 ---
