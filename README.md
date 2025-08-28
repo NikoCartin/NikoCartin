@@ -19,8 +19,30 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 [carrito-compras-ajax](https://github.com/NikoCartin/carrito-compras-ajax)  
 Sistema completo de carrito de compras desarrollado con tecnologías web nativas que implementa AJAX para comunicación asíncrona y sesiones PHP para el manejo del estado. El proyecto incluye gestión dinámica de productos, carrito de compras en tiempo real, y un sistema de historial de compras. Desarrollado como proyecto académico que demuestra el dominio de conceptos fundamentales de desarrollo web sin frameworks.
 
+<div align="center">
+  <img src="./images/carrito-demo.png" alt="Demo del Carrito de Compras" width="600"/>
+  <br/>
+  <em>Interfaz principal del sistema de carrito con productos y funcionalidad AJAX</em>
+</div>
+
 - [Ver Código en GitHub](https://github.com/NikoCartin/carrito-compras-ajax)
 - Tech used: `PHP`, `JavaScript`, `AJAX`, `HTML`, `CSS`, `Sessions`
+
+---
+
+### E-commerce Platform - PHP & MySQL
+
+[ecommerce-php](https://github.com/NikoCartin/ecommerce-php)  
+Complete e-commerce system built with vanilla PHP and MySQL database. Features a comprehensive product catalog, shopping cart management, customer inquiry system, and full checkout process. Includes responsive design with Bootstrap 5, session management, and database persistence. Demonstrates advanced PHP backend development and database design skills.
+
+<div align="center">
+  <img src="./images/ecommerce-demo.png" alt="Demo del E-commerce PHP" width="600"/>
+  <br/>
+  <em>Sistema completo de e-commerce con catálogo de productos y gestión de carrito</em>
+</div>
+
+- [Ver Código en GitHub](https://github.com/NikoCartin/ecommerce-php)
+- Tech used: `PHP`, `MySQL`, `HTML`, `CSS`, `Bootstrap 5`, `JavaScript`, `Apache`
 
 ---
 
@@ -40,6 +62,12 @@ Complete e-commerce and content platform for martial arts community in Costa Ric
 [HMMADemoJquery](https://github.com/NikoCartin/HMMADemoJquery)  
 Proyecto de demostración que implementa funcionalidades interactivas utilizando jQuery para la manipulación del DOM y manejo de eventos. Incluye ejemplos prácticos de efectos, animaciones y funciones dinámicas que demuestran el poder de jQuery para crear interfaces web responsivas e interactivas.
 
+<div align="center">
+  <img src="./images/jquery-demo.png" alt="Demo de jQuery Interactive" width="600"/>
+  <br/>
+  <em>Ejemplos de manipulación del DOM y efectos interactivos con jQuery</em>
+</div>
+
 - [Ver Código en GitHub](https://github.com/NikoCartin/HMMADemoJquery)
 - Tech used: `jQuery`, `JavaScript`, `HTML`, `CSS`, `DOM Manipulation`
 
@@ -50,6 +78,12 @@ Proyecto de demostración que implementa funcionalidades interactivas utilizando
 [react-vs-vanilla-demo](https://github.com/NikoCartin/react-vs-vanilla-demo)  
 Comparative demo exploring the differences between building interactive UIs using pure Vanilla JavaScript versus using the React framework. Ideal for understanding state management, DOM handling, and scalability at a glance.
 
+<div align="center">
+  <img src="./images/react-vs-vanilla-demo.png" alt="Demo React vs Vanilla JS" width="600"/>
+  <br/>
+  <em>Comparación visual entre implementaciones en React y JavaScript vanilla</em>
+</div>
+
 - [CodeSandbox Live Preview](https://codesandbox.io/p/github/NikoCartin/react-vs-vanilla-demo)
 - Tech used: `React`, `JavaScript`, `HTML`, `CSS`
 
@@ -59,6 +93,12 @@ Comparative demo exploring the differences between building interactive UIs usin
 
 [react-essentials-start](https://github.com/NikoCartin/react-essentials-start)  
 React Essentials Start is a starter project designed to help you learn and practice the fundamental concepts of React, such as components, props, state, and dynamic rendering. It is ideal for beginners who want to understand how to build interactive web applications from scratch with React.
+
+<div align="center">
+  <img src="./images/react-essentials-demo.png" alt="Demo React Essentials" width="600"/>
+  <br/>
+  <em>Aplicación React mostrando conceptos fundamentales de componentes y estado</em>
+</div>
 
 - [Live Site](https://vzmfs3.csb.app/)
 - Tech used: `React`, `JavaScript`, `HTML`, `CSS`
