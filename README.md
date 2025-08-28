@@ -24,11 +24,13 @@ Sistema completo de carrito de compras desarrollado con tecnologías web nativas
 
 ---
 
-- **MarbellaCR** (Website Under Redesign)
-  *E-commerce site based in Costa Rica for imported Brazilian fashion by Lez a Lez (Urban Beachwear).*  
-  I developed optimized code and implemented a fully customized WordPress site with WooCommerce integration. My work included Facebook catalog integration, custom styling, layout design, and graphic editing for key visuals. I also led the SEO optimization strategy to improve visibility and search performance in a competitive market.  
- - 🔗 [Live Site](https://www.marbellacr.com/)
--  Tech used: `CSS`, `JavaScript`, `HTML`, `PHP`
+### Demo: jQuery Interactive Web
+
+[HMMADemoJquery](https://github.com/NikoCartin/HMMADemoJquery)  
+Proyecto de demostración que implementa funcionalidades interactivas utilizando jQuery para la manipulación del DOM y manejo de eventos. Incluye ejemplos prácticos de efectos, animaciones y funciones dinámicas que demuestran el poder de jQuery para crear interfaces web responsivas e interactivas.
+
+- 🔗 [Ver Código en GitHub](https://github.com/NikoCartin/HMMADemoJquery)
+- Tech used: `jQuery`, `JavaScript`, `HTML`, `CSS`, `DOM Manipulation`
 
 ---
 
@@ -49,6 +51,14 @@ React Essentials Start is a starter project designed to help you learn and pract
 
 - 🔗 [Live Site](https://vzmfs3.csb.app/)
 - Tech used: `React`, `JavaScript`, `HTML`, `CSS`
+
+---
+
+- **MarbellaCR** (Website Under Redesign)
+  *E-commerce site based in Costa Rica for imported Brazilian fashion by Lez a Lez (Urban Beachwear).*  
+  I developed optimized code and implemented a fully customized WordPress site with WooCommerce integration. My work included Facebook catalog integration, custom styling, layout design, and graphic editing for key visuals. I also led the SEO optimization strategy to improve visibility and search performance in a competitive market.  
+ - 🔗 [Live Site](https://www.marbellacr.com/)
+-  Tech used: `CSS`, `JavaScript`, `HTML`, `PHP`
 
 ---
 
