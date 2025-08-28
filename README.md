@@ -19,12 +19,6 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 [carrito-compras-ajax](https://github.com/NikoCartin/carrito-compras-ajax)  
 Sistema completo de carrito de compras desarrollado con tecnologías web nativas que implementa AJAX para comunicación asíncrona y sesiones PHP para el manejo del estado. El proyecto incluye gestión dinámica de productos, carrito de compras en tiempo real, y un sistema de historial de compras. Desarrollado como proyecto académico que demuestra el dominio de conceptos fundamentales de desarrollo web sin frameworks.
 
-<div align="center">
-  <img src="./images/carrito-demo.png" alt="Demo del Carrito de Compras" width="600"/>
-  <br/>
-  <em>Interfaz principal del sistema de carrito con productos y funcionalidad AJAX</em>
-</div>
-
 - [Ver Código en GitHub](https://github.com/NikoCartin/carrito-compras-ajax)
 - Tech used: `PHP`, `JavaScript`, `AJAX`, `HTML`, `CSS`, `Sessions`
 
@@ -34,12 +28,6 @@ Sistema completo de carrito de compras desarrollado con tecnologías web nativas
 
 [ecommerce-php](https://github.com/NikoCartin/ecommerce-php)  
 Complete e-commerce system built with vanilla PHP and MySQL database. Features a comprehensive product catalog, shopping cart management, customer inquiry system, and full checkout process. Includes responsive design with Bootstrap 5, session management, and database persistence. Demonstrates advanced PHP backend development and database design skills.
-
-<div align="center">
-  <img src="./images/ecommerce-demo.png" alt="Demo del E-commerce PHP" width="600"/>
-  <br/>
-  <em>Sistema completo de e-commerce con catálogo de productos y gestión de carrito</em>
-</div>
 
 - [Ver Código en GitHub](https://github.com/NikoCartin/ecommerce-php)
 - Tech used: `PHP`, `MySQL`, `HTML`, `CSS`, `Bootstrap 5`, `JavaScript`, `Apache`
