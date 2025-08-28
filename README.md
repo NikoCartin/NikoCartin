@@ -24,6 +24,17 @@ Sistema completo de carrito de compras desarrollado con tecnologías web nativas
 
 ---
 
+### Hablemos de MMA - E-commerce & Content Platform
+
+[hablemosdemma.com](https://hablemosdemma.com/)  
+Complete e-commerce and content platform for martial arts community in Costa Rica. Built with Hostinger's website builder, featuring product catalog for martial arts equipment, integrated blog, social media presence across multiple platforms, and community engagement tools. The platform combines e-commerce functionality with educational content including interviews, tutorials, and fight analysis.
+
+- [Live Site](https://hablemosdemma.com/)
+- [YouTube Channel](https://youtube.com/@HablemosdeMMA)
+- Tech used: `E-commerce`, `Content Management`, `Social Media Integration`, `SEO`, `Digital Marketing`
+
+---
+
 ### Demo: jQuery Interactive Web
 
 [HMMADemoJquery](https://github.com/NikoCartin/HMMADemoJquery)  
