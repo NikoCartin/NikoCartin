@@ -64,9 +64,17 @@ React Essentials Start is a starter project designed to help you learn and pract
 
 ### Tech I'm Into
 
-`HTML/CSS` · `JavaScript` · `React` · `Vue.js`  
-`Node.js` · `PHP` · `Python` · `SQL`  
-`Full Stack Web Development` · `Digital Strategy` · `Bootstrap` 
+**Frontend Development**  
+HTML · CSS · JavaScript · React · Vue.js · Bootstrap · AJAX · Responsive Design · Figma · UI/UX Prototyping
+
+**Backend & Dev Tools**  
+Node.js · PHP · Python · SQL · MySQL · Laravel · REST APIs · Git · Express.js · Version Control · Deployment Workflows
+
+**Digital Strategy & Web Architecture**  
+Full Stack Web Development · SEO Optimization · Digital Marketing Integration · Conversion-Focused Design · Performance Tuning · Audience-Centric Branding
+
+**Currently Exploring**  
+Advanced React Patterns · Dynamic Web Apps with AJAX · UI Design in Figma · JAMstack · Headless CMS · E-commerce Optimization
 
 ---
 
