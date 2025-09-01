@@ -5,7 +5,7 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 </p>
 
 <p align="center">
-  Studying Full Stack Development at <strong>U Fidélitas</strong> and Business Administration at <strong>TEC</strong><br/>
+  Full Stack Developer from <strong>U Fidélitas</strong> and Business Administration at <strong>TEC</strong><br/>
   Passionate about AI, digital marketing, and building things that blend creativity with strategy<br/>
   Founder of <strong>HMMA</strong>, where I create content, teach and sell awesome products
 </p>
@@ -13,6 +13,16 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 ---
 
 ### Projects & Experiments
+
+### Laravel Inventory Management System
+
+[InventarioRapidoLaravel](https://github.com/NikoCartin/InventarioRapidoLaravel)  
+Complete inventory management system developed with Laravel framework. Features comprehensive CRUD operations for products and suppliers, category management, responsive interface, and professional MVC architecture. Includes database migrations, seeders, and factories for efficient data management. Built following Laravel best practices with clean, documented code ready for production deployment.
+
+- [View Code on GitHub](https://github.com/NikoCartin/InventarioRapidoLaravel)
+- Tech used: `Laravel`, `PHP`, `MySQL`, `Blade Templates`, `Eloquent ORM`, `MVC Architecture`
+
+---
 
 ### AJAX Shopping Cart System
 
@@ -88,7 +98,7 @@ E-commerce site based in Costa Rica for imported Brazilian fashion by Lez a Lez 
 ### Tech I'm Into
 
 `HTML/CSS` · `JavaScript` · `React` · `Vue.js`  
-`Node.js` · `PHP` · `Python` · `SQL`  
+`Node.js` · `PHP` · `Laravel` · `Python` · `SQL`  
 `Full Stack Web Development` · `Digital Strategy` · `Bootstrap` 
 
 ---
