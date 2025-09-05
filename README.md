@@ -14,18 +14,18 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 
 ### Projects & Experiments
 
-### Landing Page Grupo Inmarca
+### Grupo Inmarca Landing Page
 
 [landing-page-grupo-inmarca](https://github.com/NikoCartin/landing-page-grupo-inmarca)  
-Landing page profesional para Grupo Inmarca, distribuidora y representante oficial de marcas de ropa brasileña en Costa Rica. Incluye información institucional, comercial, contacto y políticas.
+Professional landing page for Grupo Inmarca, the official distributor and representative of Brazilian clothing brands in Costa Rica. Features institutional information, commercial details, contact form, and company policies.
 
 <p align="center">
   <a href="https://github.com/NikoCartin/landing-page-grupo-inmarca">
-    <img src="https://raw.githubusercontent.com/NikoCartin/landing-page-grupo-inmarca/main/docs/screenshot.png" alt="Landing Page Grupo Inmarca Screenshot" width="800"/>
+    <img src="https://raw.githubusercontent.com/NikoCartin/landing-page-grupo-inmarca/main/docs/screenshot.png" alt="Grupo Inmarca Landing Page Screenshot" width="800"/>
   </a>
 </p>
 
-- [Ver código en GitHub](https://github.com/NikoCartin/landing-page-grupo-inmarca)
+- [View code on GitHub](https://github.com/NikoCartin/landing-page-grupo-inmarca)
 - Tech used: `React`, `PHP`, `EmailJS`, `CSS`, `HTML`
 
 ### Laravel Inventory Management System
