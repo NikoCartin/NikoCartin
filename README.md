@@ -43,7 +43,7 @@ Complete inventory management system developed with Laravel framework. Features 
 [carrito-compras-ajax](https://github.com/NikoCartin/carrito-compras-ajax)
 
 <p align="center">
-  <img src="Portada.png" alt="Portada del proyecto" width="400"/>
+  <img src="https://raw.githubusercontent.com/NikoCartin/carrito-compras-ajax/main/Portada.png" alt="Portada del proyecto" width="400"/>
 </p>
 
 Complete shopping cart system developed with native web technologies implementing AJAX for asynchronous communication and PHP sessions for state management. The project includes dynamic product management, real-time shopping cart, and purchase history system. Developed as an academic project demonstrating mastery of fundamental web development concepts without frameworks.
