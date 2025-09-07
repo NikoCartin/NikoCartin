@@ -31,7 +31,9 @@ Professional landing page for Grupo Inmarca, the official distributor and repres
 ### Laravel Inventory Management System
 
 [InventarioRapidoLaravel](https://github.com/NikoCartin/InventarioRapidoLaravel)  
-Complete inventory management system developed with Laravel framework. Features comprehensive CRUD operations for products and suppliers, category management, responsive interface, and professional MVC architecture. Includes database migrations, seeders, and factories for efficient data management. Built following Laravel best practices with clean, documented code ready for production deployment.
+Complete inventory management system developed with Laravel framework. Features comprehensive CRUD operations for products and suppliers, category management, responsive interface, and professional MVC architecture.
+
+![Portada del Sistema de Inventario](https://raw.githubusercontent.com/NikoCartin/InventarioRapidoLaravel/main/public/PortadaInventario.PNG)
 
 - [View Code on GitHub](https://github.com/NikoCartin/InventarioRapidoLaravel)
 - Tech used: `Laravel`, `PHP`, `MySQL`, `Blade Templates`, `Eloquent ORM`, `MVC Architecture`
