@@ -66,7 +66,7 @@ Complete e-commerce system built with vanilla PHP and MySQL database. Features a
 
 <p align="center">
   <a href="https://github.com/NikoCartin/ecommerce-php">
-    <img src="https://raw.githubusercontent.com/NikoCartin/ecommerce-php/main/assets/images/PortadaGithub/PortadaGithub.PNG" alt="Portada E-commerce PHP" width="800"/>
+    <img src="https://raw.githubusercontent.com/NikoCartin/ecommerce-php/main/assets/images/PortadaGithub.PNG" alt="Portada E-commerce PHP" width="800"/>
   </a>
 </p>
 
