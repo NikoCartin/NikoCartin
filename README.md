@@ -64,6 +64,12 @@ Complete shopping cart system developed with native web technologies implementin
 [ecommerce-php](https://github.com/NikoCartin/ecommerce-php)  
 Complete e-commerce system built with vanilla PHP and MySQL database. Features a comprehensive product catalog, shopping cart management, customer inquiry system, and full checkout process. Includes responsive design with Bootstrap 5, session management, and database persistence. Demonstrates advanced PHP backend development and database design skills.
 
+<p align="center">
+  <a href="https://github.com/NikoCartin/ecommerce-php">
+    <img src="https://raw.githubusercontent.com/NikoCartin/ecommerce-php/main/assets/images/PortadaGithub/portada.jpg" alt="Portada E-commerce PHP" width="800"/>
+  </a>
+</p>
+
 - [View Code on GitHub](https://github.com/NikoCartin/ecommerce-php)
 - Tech used: `PHP`, `MySQL`, `HTML`, `CSS`, `Bootstrap 5`, `JavaScript`, `Apache`
 
