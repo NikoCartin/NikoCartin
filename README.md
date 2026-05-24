@@ -118,6 +118,18 @@ React Essentials Start is a starter project designed to help you learn and pract
 
 ---
 
+### Echelon Fit - E-commerce Platform (US, UK & Canada)
+
+[echelonfit.com](https://echelonfit.com/) · [echelonfit.uk](https://echelonfit.uk/) · [echelonfit.ca](https://echelonfit.ca/)  
+E-commerce platform for Echelon Fit, spanning three regional storefronts for the US, UK, and Canadian markets. I developed optimized code and implemented fully customized WordPress sites with WooCommerce integration. My work included Facebook catalog integration, custom styling, layout design, and graphic editing for key visuals. I also led the SEO optimization strategy to improve visibility and search performance across all three markets.
+
+- [Live Site (US)](https://echelonfit.com/)
+- [Live Site (UK)](https://echelonfit.uk/)
+- [Live Site (CA)](https://echelonfit.ca/)
+- Tech used: `WordPress`, `WooCommerce`, `CSS`, `JavaScript`, `HTML`, `PHP`, `SEO`
+
+---
+
 ### MarbellaCR E-commerce Platform
 
 [MarbellaCR](https://www.marbellacr.com/) (Website Under Redesign)  
