@@ -12,6 +12,40 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 
 ---
 
+### Featured Experience
+
+### Shopify Storefront Development & E-commerce Operations — Echelon US, UK & CA
+
+Worked on the ongoing development, maintenance, and optimization of **three Shopify storefronts: Echelon US, UK, and CA**. My role included **Liquid theme editing, front-end code updates, app integrations, product and collection page management, UX improvements, and merchandising support** across multiple regional experiences.
+
+This work involved improving collection structures, updating product content and imagery, troubleshooting media and layout issues, implementing code-level storefront adjustments, and supporting promotional/offer integrations inside Shopify.
+
+**Key contributions:**
+- Edited **Shopify Liquid themes**, templates, and storefront code
+- Added and configured **Shopify apps** and third-party integrations
+- Updated **product pages, collection pages, and merchandising content**
+- Improved **collection UX and navigation**, especially for growing categories like Recovery
+- Standardized and optimized **product images and media assets**
+- Troubleshot **upload, display, layout, and content issues**
+- Supported storefront operations across **US, UK, and CA suites**
+- Collaborated with internal stakeholders on **site structure, product presentation, and promotional implementations**
+
+**Tech used:**  
+`Shopify` · `Liquid` · `HTML` · `CSS` · `JavaScript` · `Ruby` · `Theme Customization` · `App Integrations` · `UX/UI` · `E-commerce Operations`
+
+**Storefronts:**  
+- [Echelon US](https://echelonfit.com/)
+- [Echelon UK](https://echelonfit.uk/)
+- [Echelon CA](https://echelonfit.ca/)
+
+<p align="center">
+  <img src="https://via.placeholder.com/1000x520?text=Echelon+Shopify+Storefront+Work" alt="Echelon Shopify Storefront Work Placeholder" width="900"/>
+</p>
+
+> Replace the image above with screenshots of collection pages, product page improvements, theme work, or storefront UX updates if you want this section to feel more concrete.
+
+---
+
 ### Projects & Experiments
 
 ### Grupo Inmarca Landing Page
@@ -132,7 +166,7 @@ E-commerce site based in Costa Rica for imported Brazilian fashion by Lez a Lez 
 
 `HTML/CSS` · `JavaScript` · `React` · `Vue.js`  
 `Node.js` · `PHP` · `Laravel` · `Python` · `SQL`  
-`Full Stack Web Development` · `Digital Strategy` · `Bootstrap` 
+`Full Stack Web Development` · `Digital Strategy` · `Bootstrap` · `Shopify` · `Liquid`
 
 ---
 
