@@ -42,8 +42,6 @@ This work involved improving collection structures, updating product content and
   <img src="https://github.com/NikoCartin/NikoCartin/blob/main/EchelonFit-recovery.jpg" alt="Echelon Shopify Storefront Work Placeholder" width="900"/>
 </p>
 
-> Replace the image above with screenshots of collection pages, product page improvements, theme work, or storefront UX updates if you want this section to feel more concrete.
-
 ---
 
 ### Projects & Experiments
