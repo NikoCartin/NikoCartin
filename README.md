@@ -14,7 +14,7 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 
 ### Featured Experience
 
-### Shopify Storefront Development & E-commerce Operations — Echelon US, UK & CA
+### Shopify Storefront Development & E-commerce Operations - Echelon US, UK & CA
 
 Worked on the ongoing development, maintenance, and optimization of **three Shopify storefronts: Echelon US, UK, and CA**. My role included **Liquid theme editing, front-end code updates, app integrations, product and collection page management, UX improvements, and merchandising support** across multiple regional experiences.
 
