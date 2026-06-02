@@ -29,6 +29,7 @@ This work involved improving collection structures, updating product content and
 - Troubleshot **upload, display, layout, and content issues**
 - Supported storefront operations across **US, UK, and CA suites**
 - Collaborated with internal stakeholders on **site structure, product presentation, and promotional implementations**
+- Implemented and tested **geo-location storefront routing** across regional storefronts, including support for the US, UK, Canada, France, Germany, and Ireland
 
 **Tech used:**  
 `Shopify` · `Liquid` · `HTML` · `CSS` · `JavaScript` · `Ruby` · `Theme Customization` · `App Integrations` · `UX/UI` · `E-commerce Operations`
@@ -37,6 +38,9 @@ This work involved improving collection structures, updating product content and
 - [Echelon US](https://echelonfit.com/)
 - [Echelon UK](https://echelonfit.uk/)
 - [Echelon CA](https://echelonfit.ca/)
+
+**Related repository:**  
+- [geo-fencing](https://github.com/NikoCartin/geo-fencing)
 
 <p align="center">
   <img src="https://github.com/NikoCartin/NikoCartin/blob/main/EchelonFit-recovery.jpg" alt="Echelon Shopify Storefront Work Placeholder" width="900"/>
