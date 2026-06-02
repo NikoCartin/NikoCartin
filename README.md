@@ -43,7 +43,7 @@ This work involved improving collection structures, updating product content and
 - [geo-fencing](https://github.com/NikoCartin/geo-fencing)
 
 <p align="center">
-  <img src="https://github.com/NikoCartin/NikoCartin/blob/main/EchelonFit-recovery.jpg" alt="Echelon Shopify Storefront Work Placeholder" width="900"/>
+  <img src="https://github.com/NikoCartin/NikoCartin/blob/main/echelonfit.jpg" alt="Echelon Shopify Storefront Work Placeholder" width="900"/>
 </p>
 
 ---
