@@ -24,7 +24,7 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 Production-level Shopify theme development for Primal Strength US, a premium fitness equipment brand. Work included resolving critical storefront availability bugs, adapting UK-specific features for the US market, integrating the ChargeAfter financing SDK, and customizing transactional email templates.
 
 <p align="center">
-  <a href="https://github.com/NikoCartin/primal-strength-us-shopify">
+  <a href="https://us.primalstrength.com">
     <img src="https://raw.githubusercontent.com/NikoCartin/primal-strength-us-shopify/main/banner.jpg" alt="Primal Strength US" width="800"/>
   </a>
 </p>
