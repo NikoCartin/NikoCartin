@@ -35,6 +35,12 @@ Production-level Shopify theme development for Primal Strength US, a premium fit
 
 ### Shopify Storefront Development & E-commerce Operations - Echelon US, UK & CA
 
+<p align="center">
+  <a href="https://echelonfit.com/">
+    <img src="https://github.com/NikoCartin/NikoCartin/blob/main/echelonfit.jpg" alt="Echelon Shopify Storefront" width="900"/>
+  </a>
+</p>
+
 Worked on the ongoing development, maintenance, and optimization of **three Shopify storefronts: Echelon US, UK, and CA**. My role included **Liquid theme editing, front-end code updates, app integrations, product and collection page management, UX improvements, and merchandising support** across multiple regional experiences.
 
 This work involved improving collection structures, updating product content and imagery, troubleshooting media and layout issues, implementing code-level storefront adjustments, and supporting promotional/offer integrations inside Shopify.
@@ -61,9 +67,6 @@ This work involved improving collection structures, updating product content and
 **Related repository:**  
 - [geo-fencing](https://github.com/NikoCartin/geo-fencing)
 
-<p align="center">
-  <img src="https://github.com/NikoCartin/NikoCartin/blob/main/echelonfit.jpg" alt="Echelon Shopify Storefront Work Placeholder" width="900"/>
-</p>
 
 ---
 
