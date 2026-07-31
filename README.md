@@ -137,6 +137,12 @@ Complete e-commerce system built with vanilla PHP and MySQL database. Features a
 [hablemosdemma.com](https://hablemosdemma.com/)  
 Complete e-commerce and content platform for the martial arts community in Costa Rica. Built with Hostinger's website builder, featuring product catalog for martial arts equipment, integrated blog, social media presence across multiple platforms, and community engagement tools. The platform combines e-commerce functionality with educational content including interviews, tutorials, and fight analysis.
 
+<p align="center">
+  <a href="https://hablemosdemma.com/">
+    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/hmma_banner.webp" alt="Hablemos de MMA" width="800"/>
+  </a>
+</p>
+
 - [Live Site](https://hablemosdemma.com/)
 - [YouTube Channel](https://youtube.com/@HablemosdeMMA)
 - Tech used: `E-commerce`, `Content Management`, `Social Media Integration`, `SEO`, `Digital Marketing`
