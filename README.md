@@ -14,6 +14,8 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 
 ### Featured Experience
 
+---
+
 ### Primal Strength US — Shopify Theme Customizations
 
 [us.primalstrength.com](https://us.primalstrength.com)  
@@ -67,7 +69,6 @@ This work involved improving collection structures, updating product content and
 **Related repository:**  
 - [geo-fencing](https://github.com/NikoCartin/geo-fencing)
 
-
 ---
 
 ### Projects & Experiments
@@ -87,6 +88,8 @@ Professional landing page for Grupo Inmarca, the official distributor and repres
 
 - [View code on GitHub](https://github.com/NikoCartin/landing-page-grupo-inmarca)
 - Tech used: `React`, `PHP`, `EmailJS`, `CSS`, `HTML`
+
+---
 
 ### Laravel Inventory Management System
 
