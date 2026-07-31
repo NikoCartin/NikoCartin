@@ -17,7 +17,7 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 
 
 
-### Primal Strength US — Shopify Theme Customizations
+### Primal Strength US - Shopify Theme Customizations
 
 [us.primalstrength.com](https://us.primalstrength.com)  
 [primal-strength-us-shopify](https://github.com/NikoCartin/primal-strength-us-shopify)  
