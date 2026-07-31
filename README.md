@@ -188,11 +188,11 @@ React Essentials Start is a starter project designed to help you learn and pract
 
 ### MarbellaCR E-commerce Platform
 
-[MarbellaCR](https://www.marbellacr.com/) (Website Under Redesign)  
-E-commerce site based in Costa Rica for imported Brazilian fashion by Lez a Lez (Urban Beachwear). I developed optimized code and implemented a fully customized WordPress site with WooCommerce integration. My work included Facebook catalog integration, custom styling, layout design, and graphic editing for key visuals. I also led the SEO optimization strategy to improve visibility and search performance in a competitive market.
+[marbellacr.com](https://www.marbellacr.com/)  
+Full e-commerce platform for MarbellaCR, a Costa Rican fashion brand specializing in imported Brazilian Urban Beachwear by Lez a Lez. The site features a complete product catalog spanning multiple categories (Tops, Bottoms, Vestidos, Enterizos, Activewear, Swimsuits, Accesorios), a promotional discount system, WhatsApp product catalog integration, and a multi-platform social media presence across Instagram, Facebook, and TikTok. Built on Hostinger's website builder with custom styling, layout design, and graphic editing for key visuals. I also led the SEO strategy to improve search visibility in a competitive fashion market in Costa Rica.
 
 - [Live Site](https://www.marbellacr.com/)
-- Tech used: `WordPress`, `WooCommerce`, `CSS`, `JavaScript`, `HTML`, `PHP`, `SEO`
+- Tech used: `Hostinger`, `E-commerce`, `CSS`, `SEO`, `Social Media Integration`, `WhatsApp Catalog`, `Digital Marketing`
 
 ---
 
