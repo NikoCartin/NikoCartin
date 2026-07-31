@@ -186,6 +186,23 @@ React Essentials Start is a starter project designed to help you learn and pract
 
 ---
 
+### NossoCR E-commerce Platform
+
+[nossocr.com](https://nossocr.com/)  
+[NossoCR](https://github.com/NikoCartin/NossoCR)  
+Full e-commerce platform for NossoCR, a Costa Rican multi-brand fashion retailer specializing in imported Brazilian clothing and official Melissa Shoes. The site features separate shopping sections for women, men, and children, a brand-specific catalog for Melissa Shoes, product variant management, newsletter integration, WhatsApp catalog, and free shipping promotions. Built on WordPress with Elementor, WooCommerce, and custom PHP, HTML, and CSS code to achieve a tailored visual identity and shopping experience.
+
+<p align="center">
+  <a href="https://nossocr.com/">
+    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/nosso_banner.png" alt="NossoCR" width="800"/>
+  </a>
+</p>
+
+- [Live Site](https://nossocr.com/)
+- Tech used: `WordPress`, `Elementor`, `WooCommerce`, `PHP`, `HTML`, `CSS`, `SEO`
+
+---
+
 ### MarbellaCR E-commerce Platform
 
 [marbellacr.com](https://www.marbellacr.com/)  
