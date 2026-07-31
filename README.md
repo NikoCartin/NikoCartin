@@ -74,6 +74,55 @@ This work involved improving collection structures, updating product content and
 
 ### Projects & Experiments
 
+### NossoCR E-commerce Platform
+
+[nossocr.com](https://nossocr.com/)  
+Full e-commerce platform for NossoCR, a Costa Rican multi-brand fashion retailer specializing in imported Brazilian clothing and official Melissa Shoes. The site features separate shopping sections for women, men, and children, a brand-specific catalog for Melissa Shoes, product variant management, newsletter integration, WhatsApp catalog, and free shipping promotions. Built on WordPress with Elementor, WooCommerce, and custom PHP, HTML, and CSS code to achieve a tailored visual identity and shopping experience.
+
+<p align="center">
+  <a href="https://nossocr.com/">
+    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/nosso_banner.png" alt="NossoCR" width="800"/>
+  </a>
+</p>
+
+- [Live Site](https://nossocr.com/)
+- Tech used: `WordPress`, `Elementor`, `WooCommerce`, `PHP`, `HTML`, `CSS`, `SEO`
+
+---
+
+### Hablemos de MMA - E-commerce & Content Platform
+
+[hablemosdemma.com](https://hablemosdemma.com/)  
+Complete e-commerce and content platform for the martial arts community in Costa Rica. Built with Hostinger's website builder, featuring product catalog for martial arts equipment, integrated blog, social media presence across multiple platforms, and community engagement tools. The platform combines e-commerce functionality with educational content including interviews, tutorials, and fight analysis.
+
+<p align="center">
+  <a href="https://hablemosdemma.com/">
+    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/hmma_banner.webp" alt="Hablemos de MMA" width="800"/>
+  </a>
+</p>
+
+- [Live Site](https://hablemosdemma.com/)
+- [YouTube Channel](https://youtube.com/@HablemosdeMMA)
+- Tech used: `E-commerce`, `Content Management`, `Social Media Integration`, `SEO`, `Digital Marketing`
+
+---
+
+### MarbellaCR E-commerce Platform
+
+[marbellacr.com](https://www.marbellacr.com/)  
+<p align="center">
+  <a href="https://www.marbellacr.com/">
+    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/marbella_banner.png" alt="MarbellaCR" width="800"/>
+  </a>
+</p>
+
+Full e-commerce platform for MarbellaCR, a Costa Rican fashion brand specializing in imported Brazilian Urban Beachwear by Lez a Lez. The site features a complete product catalog spanning multiple categories (Tops, Bottoms, Vestidos, Enterizos, Activewear, Swimsuits, Accesorios), a promotional discount system, WhatsApp product catalog integration, and a multi-platform social media presence across Instagram, Facebook, and TikTok. Built on Hostinger's website builder with custom styling, layout design, and graphic editing for key visuals. I also led the SEO strategy to improve search visibility in a competitive fashion market in Costa Rica.
+
+- [Live Site](https://www.marbellacr.com/)
+- Tech used: `Hostinger`, `E-commerce`, `CSS`, `SEO`, `Social Media Integration`, `WhatsApp Catalog`, `Digital Marketing`
+
+---
+
 ### Grupo Inmarca Landing Page
 
 [grupoinmarca.com](https://grupoinmarca.com/) 
@@ -139,22 +188,7 @@ Complete e-commerce system built with vanilla PHP and MySQL database. Features a
 
 ---
 
-### Hablemos de MMA - E-commerce & Content Platform
 
-[hablemosdemma.com](https://hablemosdemma.com/)  
-Complete e-commerce and content platform for the martial arts community in Costa Rica. Built with Hostinger's website builder, featuring product catalog for martial arts equipment, integrated blog, social media presence across multiple platforms, and community engagement tools. The platform combines e-commerce functionality with educational content including interviews, tutorials, and fight analysis.
-
-<p align="center">
-  <a href="https://hablemosdemma.com/">
-    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/hmma_banner.webp" alt="Hablemos de MMA" width="800"/>
-  </a>
-</p>
-
-- [Live Site](https://hablemosdemma.com/)
-- [YouTube Channel](https://youtube.com/@HablemosdeMMA)
-- Tech used: `E-commerce`, `Content Management`, `Social Media Integration`, `SEO`, `Digital Marketing`
-
----
 
 ### Demo: jQuery Interactive Web
 
@@ -183,39 +217,6 @@ React Essentials Start is a starter project designed to help you learn and pract
 
 - [Live Site](https://vzmfs3.csb.app/)
 - Tech used: `React`, `JavaScript`, `HTML`, `CSS`
-
----
-
-### NossoCR E-commerce Platform
-
-[nossocr.com](https://nossocr.com/)  
-[NossoCR](https://github.com/NikoCartin/NossoCR)  
-Full e-commerce platform for NossoCR, a Costa Rican multi-brand fashion retailer specializing in imported Brazilian clothing and official Melissa Shoes. The site features separate shopping sections for women, men, and children, a brand-specific catalog for Melissa Shoes, product variant management, newsletter integration, WhatsApp catalog, and free shipping promotions. Built on WordPress with Elementor, WooCommerce, and custom PHP, HTML, and CSS code to achieve a tailored visual identity and shopping experience.
-
-<p align="center">
-  <a href="https://nossocr.com/">
-    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/nosso_banner.png" alt="NossoCR" width="800"/>
-  </a>
-</p>
-
-- [Live Site](https://nossocr.com/)
-- Tech used: `WordPress`, `Elementor`, `WooCommerce`, `PHP`, `HTML`, `CSS`, `SEO`
-
----
-
-### MarbellaCR E-commerce Platform
-
-[marbellacr.com](https://www.marbellacr.com/)  
-<p align="center">
-  <a href="https://www.marbellacr.com/">
-    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/marbella_banner.png" alt="MarbellaCR" width="800"/>
-  </a>
-</p>
-
-Full e-commerce platform for MarbellaCR, a Costa Rican fashion brand specializing in imported Brazilian Urban Beachwear by Lez a Lez. The site features a complete product catalog spanning multiple categories (Tops, Bottoms, Vestidos, Enterizos, Activewear, Swimsuits, Accesorios), a promotional discount system, WhatsApp product catalog integration, and a multi-platform social media presence across Instagram, Facebook, and TikTok. Built on Hostinger's website builder with custom styling, layout design, and graphic editing for key visuals. I also led the SEO strategy to improve search visibility in a competitive fashion market in Costa Rica.
-
-- [Live Site](https://www.marbellacr.com/)
-- Tech used: `Hostinger`, `E-commerce`, `CSS`, `SEO`, `Social Media Integration`, `WhatsApp Catalog`, `Digital Marketing`
 
 ---
 
