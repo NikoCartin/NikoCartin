@@ -12,6 +12,16 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 
 ---
 
+### Shopify Theme Development SOPs
+
+[shopify-sops](https://github.com/NikoCartin/shopify-sops)  
+A collection of Standard Operating Procedures (SOPs) for custom Shopify theme development. This repository documents reusable architecture patterns, complex Liquid logic, and front-end JavaScript integrations for enterprise-level Shopify storefronts.
+
+- [View Documentation on GitHub](https://github.com/NikoCartin/shopify-sops)
+- Tech used: `Shopify`, `Liquid`, `JavaScript`, `Technical Writing`
+
+---
+
 ### Primal Strength US — Shopify Theme Customizations
 
 [us.primalstrength.com](https://us.primalstrength.com)  
