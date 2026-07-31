@@ -12,6 +12,8 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 
 ---
 
+### Featured Experience
+
 ### Primal Strength US — Shopify Theme Customizations
 
 [us.primalstrength.com](https://us.primalstrength.com)  
@@ -30,8 +32,6 @@ Production-level Shopify theme development for Primal Strength US, a premium fit
 - Tech used: `Shopify`, `Liquid`, `JavaScript`, `HTML`, `CSS`, `ChargeAfter SDK`
 
 ---
-
-### Featured Experience
 
 ### Shopify Storefront Development & E-commerce Operations - Echelon US, UK & CA
 
