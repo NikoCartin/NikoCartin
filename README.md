@@ -13,17 +13,23 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 ---
 
 ### Primal Strength US — Shopify Theme Customizations
-[primal-strength-us-shopify](https://github.com/NikoCartin/primal-strength-us-shopify)
+
+[us.primalstrength.com](https://us.primalstrength.com)  
+[primal-strength-us-shopify](https://github.com/NikoCartin/primal-strength-us-shopify)  
+Production-level Shopify theme development for Primal Strength US, a premium fitness equipment brand. Work included resolving critical storefront availability bugs, adapting UK-specific features for the US market, integrating the ChargeAfter financing SDK, and customizing transactional email templates.
+
 <p align="center">
   <a href="https://github.com/NikoCartin/primal-strength-us-shopify">
     <img src="https://raw.githubusercontent.com/NikoCartin/primal-strength-us-shopify/main/banner.jpg" alt="Primal Strength US" width="800"/>
   </a>
 </p>
-Production-level Shopify theme development for Primal Strength US ([us.primalstrength.com](https://us.primalstrength.com)), a premium fitness equipment brand. Work included resolving critical storefront availability bugs, adapting UK-specific features for the US market, integrating the ChargeAfter financing SDK, and customizing transactional email templates.
+
 - [View Code on GitHub](https://github.com/NikoCartin/primal-strength-us-shopify)
 - [Live Store](https://us.primalstrength.com)
 - Tech used: `Shopify`, `Liquid`, `JavaScript`, `HTML`, `CSS`, `ChargeAfter SDK`
+
 ---
+
 ### Featured Experience
 
 ### Shopify Storefront Development & E-commerce Operations - Echelon US, UK & CA
