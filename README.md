@@ -14,7 +14,8 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 
 ### Featured Experience
 
----
+
+
 
 ### Primal Strength US — Shopify Theme Customizations
 
