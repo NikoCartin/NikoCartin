@@ -67,8 +67,9 @@ This work involved improving collection structures, updating product content and
 - [Echelon UK](https://echelonfit.uk/)
 - [Echelon CA](https://echelonfit.ca/)
 
-**Related repository:**  
+**Related repositories:**  
 - [geo-fencing](https://github.com/NikoCartin/geo-fencing)
+- [echelon-sops](https://github.com/NikoCartin/echelon-sops) — Shopify Development SOPs for Echelon Fit storefronts
 
 ---
 
