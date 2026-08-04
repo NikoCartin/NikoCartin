@@ -31,7 +31,7 @@ Production-level Shopify theme development for Primal Strength US, a premium fit
 
 - [View Code on GitHub](https://github.com/NikoCartin/primal-strength-us-shopify)
 - [Live Store](https://us.primalstrength.com)
-- [Technical SOPs](https://github.com/NikoCartin/shopify-sops) — includes SOP-006: Get a Quote Button on Collection Pages
+- [Technical SOPs](https://github.com/NikoCartin/shopify-sops) 
 - Tech used: `Shopify`, `Liquid`, `JavaScript`, `HTML`, `CSS`, `ChargeAfter SDK`
 
 ---
