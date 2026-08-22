@@ -73,6 +73,25 @@ This work involved improving collection structures, updating product content and
 
 ---
 
+### Echelon Commercial Site Contribution
+
+[echeloncommercial.com](https://echeloncommercial.com/)
+[echelon-commercial-portfolio](https://github.com/NikoCartin/echelon-commercial-portfolio)
+
+Contributed to the ongoing development and optimization of the Echelon Commercial fitness e-commerce experience on Shopify. Work included React-powered product-detail experiences, product information updates, commercial category organization, specification-sheet downloads, quote-flow improvements, Market Segment capture, navigation and link auditing, runtime recovery, and production deployment validation.
+
+<p align="center">
+  <a href="https://github.com/NikoCartin/echelon-commercial-portfolio">
+    <img src="https://raw.githubusercontent.com/NikoCartin/echelon-commercial-portfolio/main/assets/echelon-commercial-preview.png" alt="Echelon Commercial website preview" width="900"/>
+  </a>
+</p>
+
+- [Live Site](https://echeloncommercial.com/)
+- [Contribution Portfolio](https://github.com/NikoCartin/echelon-commercial-portfolio)
+- Tech used: `Shopify` · `Liquid` · `React` · `JavaScript` · `JSX` · `HTML` · `CSS` · `Formspree` · `Python` · `Node.js` · `Git` · `Shopify CLI`
+
+---
+
 ### Projects & Experiments
 
 ### NossoCR E-commerce Platform
