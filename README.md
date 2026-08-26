@@ -82,7 +82,7 @@ Contributed to the ongoing development and optimization of the Echelon Commercia
 
 <p align="center">
   <a href="https://github.com/NikoCartin/echelon-commercial-portfolio">
-    <img src="https://raw.githubusercontent.com/NikoCartin/echelon-commercial-portfolio/main/assets/echelon-commercial-preview.png" alt="Echelon Commercial website preview" width="900"/>
+    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/echelon-commercial-current.png" alt="Current Echelon Commercial storefront hero" width="900"/>
   </a>
 </p>
 
