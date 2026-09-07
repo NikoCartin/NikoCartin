@@ -96,25 +96,6 @@ This work involved improving collection structures, updating product content and
 
 ---
 
-
-### Featured Open-Source Contribution: Shopify Membership Shipping Discount Starter
-
-[shopify-membership-shipping-discount-starter](https://github.com/NikoCartin/shopify-membership-shipping-discount-starter)
-
-A reusable, open-source Shopify starter for building a membership-gated free-shipping rule directly in Shopify checkout. The project uses a Rust/WASM Shopify Function and a Shopify-hosted App Home configurator so developers can implement and manage a configured automatic shipping discount without maintaining an external backend.
-
-**Key capabilities:**
-- Configures eligible and explicitly excluded membership Product or ProductVariant GIDs from Shopify Admin
-- Applies a 100% shipping discount across all delivery groups only when an eligible cart line is present
-- Fails closed when configuration is missing or malformed, and gives exclusions precedence over inclusions
-- Includes a Shopify-hosted App Home configurator with Direct API Access, duplicate protection, resource validation, and controlled automatic-discount creation
-- Includes Rust, JavaScript, and CI validation, plus replication, testing, security, and contribution guidance
-
-- [View the public starter](https://github.com/NikoCartin/shopify-membership-shipping-discount-starter)
-- Tech used: `Shopify Functions` · `Rust` · `WASM` · `Shopify Admin GraphQL API` · `App Home UI Extensions` · `Preact` · `Polaris Web Components` · `GitHub Actions`
-
----
-
 ### Echelon Commercial Site Contribution
 
 [echeloncommercial.com](https://echeloncommercial.com/)
