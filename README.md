@@ -32,6 +32,7 @@ Production-level Shopify theme development for Primal Strength US, a premium fit
 - [View Code on GitHub](https://github.com/NikoCartin/primal-strength-us-shopify)
 - [Live Store](https://us.primalstrength.com)
 - [Technical SOPs](https://github.com/NikoCartin/shopify-sops) 
+- [Split Echelon and PRIMAL logo links](https://github.com/NikoCartin/primal-strength-us-shopify/blob/main/docs/TECHNICAL-SPLIT-ECHELON-PRIMAL-LOGO-LINKS.md) - Accessible, theme-scoped navigation implemented in `sections/header.liquid`
 - Tech used: `Shopify`, `Liquid`, `JavaScript`, `HTML`, `CSS`, `ChargeAfter SDK`
 
 ---
