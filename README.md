@@ -109,8 +109,13 @@ This work involved improving collection structures, updating product content and
 Contributed to the ongoing development and optimization of the Echelon Commercial fitness e-commerce experience on Shopify. Work included React-powered product-detail experiences, product information updates, commercial category organization, specification-sheet downloads, quote-flow improvements, Market Segment capture, navigation and link auditing, runtime recovery, and production deployment validation.
 
 <p align="center">
-  <a href="https://github.com/NikoCartin/echelon-commercial-portfolio">
-    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/echelon-commercial-current.png" alt="Current Echelon Commercial storefront hero" width="900"/>
+  <a href="https://echeloncommercial.com/">
+    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/assets/echelon-commercial-hero.webp" alt="Echelon Commercial storefront hero" width="900"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://echeloncommercial.com/">
+    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/assets/echelon-commercial-catalog.webp" alt="Echelon Commercial product catalog" width="900"/>
   </a>
 </p>
 
