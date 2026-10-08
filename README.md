@@ -10,6 +10,10 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
   Founder of <strong>HMMA</strong>, where I create content, teach and sell awesome products
 </p>
 
+<p align="center">
+  <a href="https://nikocartin.github.io/"><strong>View my portfolio</strong></a>
+</p>
+
 ---
 
 ### Featured Experience
@@ -93,7 +97,7 @@ This work involved improving collection structures, updating product content and
 
 **Related repositories:**  
 - [geo-fencing](https://github.com/NikoCartin/geo-fencing)
-- [echelon-sops](https://github.com/NikoCartin/echelon-sops) — Shopify Development SOPs for Echelon Fit storefronts
+- [echelon-sops](https://github.com/NikoCartin/echelon-sops) - Shopify Development SOPs for Echelon Fit storefronts
 
 ---
 
