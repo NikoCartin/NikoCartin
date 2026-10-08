@@ -130,7 +130,7 @@ Contributed to the ongoing development and optimization of the Echelon Commercia
 ### NossoCR E-commerce Platform
 
 [nossocr.com](https://nossocr.com/)  
-Full e-commerce platform for NossoCR, a Costa Rican multi-brand fashion retailer specializing in imported Brazilian clothing and official Melissa Shoes. The site features separate shopping sections for women, men, and children, a brand-specific catalog for Melissa Shoes, product variant management, newsletter integration, WhatsApp catalog, and free shipping promotions. Built on WordPress with Elementor, WooCommerce, and custom PHP, HTML, and CSS code to achieve a tailored visual identity and shopping experience.
+Full e-commerce platform for NossoCR, a Costa Rican multi-brand fashion retailer specializing in imported Brazilian clothing and official Melissa Shoes. I developed the storefront from scratch as Lead Developer, using Elementor for page building, WordPress theme selection and customization, and custom PHP, HTML, and CSS. The site includes women’s, men’s, and children’s shopping sections, a Melissa Shoes catalog, product variants, newsletter integration, a WhatsApp catalog, and free-shipping promotions.
 
 <p align="center">
   <a href="https://nossocr.com/">
@@ -139,6 +139,7 @@ Full e-commerce platform for NossoCR, a Costa Rican multi-brand fashion retailer
 </p>
 
 - [Live Site](https://nossocr.com/)
+- [Project README and public source repository](https://github.com/NikoCartin/nossocr-wordpress)
 - Tech used: `WordPress`, `Elementor`, `WooCommerce`, `PHP`, `HTML`, `CSS`, `SEO`
 
 ---
