@@ -23,8 +23,8 @@ Entrepreneur · Full Stack Developer · Digital Marketing and AI Specialist
 
 ### Primal Strength US - Shopify Theme Customizations
 
-[us.primalstrength.com](https://us.primalstrength.com)  
-[primal-strength-us-shopify](https://github.com/NikoCartin/primal-strength-us-shopify)  
+[us.primalstrength.com](https://us.primalstrength.com)
+[primal-strength-us-shopify](https://github.com/NikoCartin/primal-strength-us-shopify)
 Production-level Shopify theme development for Primal Strength US, a premium fitness equipment brand. Work included resolving critical storefront availability bugs, adapting UK-specific features for the US market, integrating the ChargeAfter financing SDK, and customizing transactional email templates.
 
 <p align="center">
@@ -35,7 +35,7 @@ Production-level Shopify theme development for Primal Strength US, a premium fit
 
 - [View Code on GitHub](https://github.com/NikoCartin/primal-strength-us-shopify)
 - [Live Store](https://us.primalstrength.com)
-- [Technical SOPs](https://github.com/NikoCartin/shopify-sops) 
+- [Technical SOPs](https://github.com/NikoCartin/shopify-sops)
 - [Split Echelon and PRIMAL logo links](https://github.com/NikoCartin/primal-strength-us-shopify/blob/main/docs/TECHNICAL-SPLIT-ECHELON-PRIMAL-LOGO-LINKS.md) - Accessible, theme-scoped navigation implemented in `sections/header.liquid`
 - Tech used: `Shopify`, `Liquid`, `JavaScript`, `HTML`, `CSS`, `ChargeAfter SDK`
 
@@ -87,15 +87,15 @@ This work involved improving collection structures, updating product content and
 - Collaborated with internal stakeholders on **site structure, product presentation, and promotional implementations**
 - Implemented and tested **geo-location storefront routing** across regional storefronts, including support for the US, UK, Canada, France, Germany, and Ireland
 
-**Tech used:**  
+**Tech used:**
 `Shopify` · `Liquid` · `HTML` · `CSS` · `JavaScript` · `Ruby` · `Theme Customization` · `App Integrations` · `UX/UI` · `E-commerce Operations`
 
-**Storefronts:**  
+**Storefronts:**
 - [Echelon US](https://echelonfit.com/)
 - [Echelon UK](https://echelonfit.uk/)
 - [Echelon CA](https://echelonfit.ca/)
 
-**Related repositories:**  
+**Related repositories:**
 - [geo-fencing](https://github.com/NikoCartin/geo-fencing)
 - [echelon-sops](https://github.com/NikoCartin/echelon-sops) - Shopify Development SOPs for Echelon Fit storefronts
 
@@ -129,7 +129,7 @@ Contributed to the ongoing development and optimization of the Echelon Commercia
 
 ### NossoCR E-commerce Platform
 
-[nossocr.com](https://nossocr.com/)  
+[nossocr.com](https://nossocr.com/)
 Full e-commerce platform for NossoCR, a Costa Rican multi-brand fashion retailer specializing in imported Brazilian clothing and official Melissa Shoes. I developed the storefront from scratch as Lead Developer, using Elementor for page building, WordPress theme selection and customization, and custom PHP, HTML, and CSS. The site includes women’s, men’s, and children’s shopping sections, a Melissa Shoes catalog, product variants, newsletter integration, a WhatsApp catalog, and free-shipping promotions.
 
 <p align="center">
@@ -146,7 +146,7 @@ Full e-commerce platform for NossoCR, a Costa Rican multi-brand fashion retailer
 
 ### Hablemos de MMA - E-commerce & Content Platform
 
-[hablemosdemma.com](https://hablemosdemma.com/)  
+[hablemosdemma.com](https://hablemosdemma.com/)
 Complete e-commerce and content platform for the martial arts community in Costa Rica. Built with Hostinger's website builder, featuring product catalog for martial arts equipment, integrated blog, social media presence across multiple platforms, and community engagement tools. The platform combines e-commerce functionality with educational content including interviews, tutorials, and fight analysis.
 
 <p align="center">
@@ -163,7 +163,7 @@ Complete e-commerce and content platform for the martial arts community in Costa
 
 ### MarbellaCR E-commerce Platform
 
-[marbellacr.com](https://www.marbellacr.com/)  
+[marbellacr.com](https://www.marbellacr.com/)
 <p align="center">
   <a href="https://www.marbellacr.com/">
     <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/marbella_banner.png" alt="MarbellaCR" width="800"/>
@@ -179,9 +179,9 @@ Full e-commerce platform for MarbellaCR, a Costa Rican fashion brand specializin
 
 ### Grupo Inmarca Landing Page
 
-[grupoinmarca.com](https://grupoinmarca.com/) 
+[grupoinmarca.com](https://grupoinmarca.com/)
 <br>
-[landing-page-grupo-inmarca](https://github.com/NikoCartin/landing-page-grupo-inmarca)  
+[landing-page-grupo-inmarca](https://github.com/NikoCartin/landing-page-grupo-inmarca)
 Professional landing page for Grupo Inmarca, the official distributor and representative of Brazilian clothing brands in Costa Rica. Features institutional information, commercial details, contact form, and company policies.
 
 <p align="center">
@@ -197,12 +197,12 @@ Professional landing page for Grupo Inmarca, the official distributor and repres
 
 ### Laravel Inventory Management System
 
-[InventarioRapidoLaravel](https://github.com/NikoCartin/InventarioRapidoLaravel)  
+[InventarioRapidoLaravel](https://github.com/NikoCartin/InventarioRapidoLaravel)
 Complete inventory management system developed with Laravel framework. Features comprehensive CRUD operations for products and suppliers, category management, responsive interface, and professional MVC architecture.
 
 <p align="center">
   <a href="https://github.com/NikoCartin/InventarioRapidoLaravel">
-    <img src="https://raw.githubusercontent.com/NikoCartin/InventarioRapidoLaravel/main/public/PortadaInventario.PNG" alt="Portada Inventario Rápido" width="800"/>
+    <img src="https://raw.githubusercontent.com/NikoCartin/InventarioRapidoLaravel/main/public/PortadaInventario.PNG" alt="Inventory management system cover" width="800"/>
   </a>
 </p>
 
@@ -216,7 +216,7 @@ Complete inventory management system developed with Laravel framework. Features 
 [carrito-compras-ajax](https://github.com/NikoCartin/carrito-compras-ajax)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NikoCartin/carrito-compras-ajax/main/Portada.png" alt="Portada del proyecto" width="800"/>
+  <img src="https://raw.githubusercontent.com/NikoCartin/carrito-compras-ajax/main/Portada.png" alt="Project cover" width="800"/>
 </p>
 
 Complete shopping cart system developed with native web technologies implementing AJAX for asynchronous communication and PHP sessions for state management. The project includes dynamic product management, real-time shopping cart, and purchase history system. Developed as an academic project demonstrating mastery of fundamental web development concepts without frameworks.
@@ -228,12 +228,12 @@ Complete shopping cart system developed with native web technologies implementin
 
 ### E-commerce Platform - PHP & MySQL
 
-[ecommerce-php](https://github.com/NikoCartin/ecommerce-php)  
+[ecommerce-php](https://github.com/NikoCartin/ecommerce-php)
 Complete e-commerce system built with vanilla PHP and MySQL database. Features a comprehensive product catalog, shopping cart management, customer inquiry system, and full checkout process. Includes responsive design with Bootstrap 5, session management, and database persistence. Demonstrates advanced PHP backend development and database design skills.
 
 <p align="center">
   <a href="https://github.com/NikoCartin/ecommerce-php">
-    <img src="https://raw.githubusercontent.com/NikoCartin/ecommerce-php/main/assets/images/PortadaGithub.PNG" alt="Portada E-commerce PHP" width="800"/>
+    <img src="https://raw.githubusercontent.com/NikoCartin/ecommerce-php/main/assets/images/PortadaGithub.PNG" alt="PHP e-commerce cover" width="800"/>
   </a>
 </p>
 
@@ -246,7 +246,7 @@ Complete e-commerce system built with vanilla PHP and MySQL database. Features a
 
 ### Demo: jQuery Interactive Web
 
-[HMMADemoJquery](https://github.com/NikoCartin/HMMADemoJquery)  
+[HMMADemoJquery](https://github.com/NikoCartin/HMMADemoJquery)
 Demonstration project implementing interactive functionalities using jQuery for DOM manipulation and event handling. Includes practical examples of effects, animations, and dynamic functions that demonstrate the power of jQuery for creating responsive and interactive web interfaces.
 
 - [View Code on GitHub](https://github.com/NikoCartin/HMMADemoJquery)
@@ -256,7 +256,7 @@ Demonstration project implementing interactive functionalities using jQuery for 
 
 ### Demo: React vs Vanilla JavaScript
 
-[react-vs-vanilla-demo](https://github.com/NikoCartin/react-vs-vanilla-demo)  
+[react-vs-vanilla-demo](https://github.com/NikoCartin/react-vs-vanilla-demo)
 Comparative demo exploring the differences between building interactive UIs using pure Vanilla JavaScript versus using the React framework. Ideal for understanding state management, DOM handling, and scalability at a glance.
 
 - [CodeSandbox Live Preview](https://codesandbox.io/p/github/NikoCartin/react-vs-vanilla-demo)
@@ -266,7 +266,7 @@ Comparative demo exploring the differences between building interactive UIs usin
 
 ### Demo: React Essentials
 
-[react-essentials-start](https://github.com/NikoCartin/react-essentials-start)  
+[react-essentials-start](https://github.com/NikoCartin/react-essentials-start)
 React Essentials Start is a starter project designed to help you learn and practice the fundamental concepts of React, such as components, props, state, and dynamic rendering. It is ideal for beginners who want to understand how to build interactive web applications from scratch with React.
 
 - [Live Site](https://vzmfs3.csb.app/)
@@ -276,8 +276,8 @@ React Essentials Start is a starter project designed to help you learn and pract
 
 ### Tech I'm Into
 
-`HTML/CSS` · `JavaScript` · `React` · `Vue.js`  
-`Node.js` · `PHP` · `Laravel` · `Python` · `SQL`  
+`HTML/CSS` · `JavaScript` · `React` · `Vue.js`
+`Node.js` · `PHP` · `Laravel` · `Python` · `SQL`
 `Full Stack Web Development` · `Digital Strategy` · `Bootstrap` · `Shopify` · `Liquid`
 
 ---
