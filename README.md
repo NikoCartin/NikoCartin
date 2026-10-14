@@ -155,8 +155,6 @@ Public technical case study documenting the recovery of an AWS-hosted Echelon Co
 
 ---
 
-### Projects & Experiments
-
 ### Echelon Partners Program
 
 [Echelon Partners page](https://echelonfit.com/pages/partners) · [Domain-Verified Partner Benefits Starter](https://github.com/NikoCartin/shopify-domain-verified-partner-benefits-starter)
@@ -183,6 +181,8 @@ Audited metadata, canonical tags, social markup, Product JSON-LD, semantic H1 co
 - Tech used: `Shopify Liquid` · `JSON-LD` · `Technical SEO` · `Lighthouse` · `Core Web Vitals` · `Crawling` · `Release Engineering`
 
 ---
+
+### Projects & Experiments
 
 ### NossoCR E-commerce Platform
 
