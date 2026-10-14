@@ -118,8 +118,6 @@ Recent lead-tracking implementation:
 
 <p align="center">
   <a href="https://echeloncommercial.com/">
-    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/assets/echelon-commercial-hero.webp" alt="Echelon Commercial storefront hero" width="900"/>
-  </a>
 </p>
 <p align="center">
   <a href="https://echeloncommercial.com/">
