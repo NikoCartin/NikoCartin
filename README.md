@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nícolas Cartín Reyes</h1>
 
 <p align="center">
-Entrepreneur · Full Stack Developer · Shopify Plus Engineer · Digital Strategist
+Entrepreneur · Full-stack Developer · Shopify Plus Engineer · Digital Strategist
 </p>
 
 <p align="center">
