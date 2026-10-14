@@ -108,20 +108,15 @@ This work involved improving collection structures, updating product content and
 
 Led the ongoing development and optimization of the Echelon Commercial fitness e-commerce experience on Shopify. Work included React-powered product-detail experiences, product information updates, commercial category organization, specification-sheet downloads, quote-flow improvements, Market Segment capture, navigation and link auditing, runtime recovery, and production deployment validation.
 
-Recent lead-tracking implementation:
+**Core development areas:**
 
-- Created and published the production confirmation route at [`/pages/thank-you`](https://echeloncommercial.com/pages/thank-you).
-- Preserved the existing Formspree endpoint and payload while adding a post-success redirect to the confirmation route for both commercial lead forms.
-- Retained the required `market_segment` field and optional `website` field in both form flows.
-- Validated the live React bundle with `node --check` and deployed only the affected Shopify theme files through Shopify CLI.
-- Prepared the Google Ads and Google & YouTube handoff; final account authorization and the marked conversion test require a Google account with administrator access.
+- React-powered Shopify storefront architecture, product-detail experiences, and catalog UX
+- Product data, specifications, warranty content, category organization, and direct spec-sheet downloads
+- Commercial quote flows, form integrations, technical audits, runtime recovery, and production deployment validation
 
 <p align="center">
   <a href="https://echeloncommercial.com/">
-</p>
-<p align="center">
-  <a href="https://echeloncommercial.com/">
-    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/assets/echelon-commercial-catalog.webp" alt="Echelon Commercial product catalog" width="900"/>
+    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/assets/echelon-commercial-banner.png" alt="Echelon Commercial equipment catalog" width="900"/>
   </a>
 </p>
 
