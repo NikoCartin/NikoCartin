@@ -101,12 +101,20 @@ This work involved improving collection structures, updating product content and
 
 ---
 
-### Echelon Commercial Site Contribution
+### Echelon Commercial Site Contribution (Lead Dev)
 
 [echeloncommercial.com](https://echeloncommercial.com/)
 [echelon-commercial-portfolio](https://github.com/NikoCartin/echelon-commercial-portfolio)
 
-Contributed to the ongoing development and optimization of the Echelon Commercial fitness e-commerce experience on Shopify. Work included React-powered product-detail experiences, product information updates, commercial category organization, specification-sheet downloads, quote-flow improvements, Market Segment capture, navigation and link auditing, runtime recovery, and production deployment validation.
+Led the ongoing development and optimization of the Echelon Commercial fitness e-commerce experience on Shopify. Work included React-powered product-detail experiences, product information updates, commercial category organization, specification-sheet downloads, quote-flow improvements, Market Segment capture, navigation and link auditing, runtime recovery, and production deployment validation.
+
+Recent lead-tracking implementation:
+
+- Created and published the production confirmation route at [`/pages/thank-you`](https://echeloncommercial.com/pages/thank-you).
+- Preserved the existing Formspree endpoint and payload while adding a post-success redirect to the confirmation route for both commercial lead forms.
+- Retained the required `market_segment` field and optional `website` field in both form flows.
+- Validated the live React bundle with `node --check` and deployed only the affected Shopify theme files through Shopify CLI.
+- Prepared the Google Ads and Google & YouTube handoff; final account authorization and the marked conversion test require a Google account with administrator access.
 
 <p align="center">
   <a href="https://echeloncommercial.com/">
