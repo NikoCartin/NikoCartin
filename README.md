@@ -157,14 +157,31 @@ Public technical case study documenting the recovery of an AWS-hosted Echelon Co
 
 ### Echelon Partners Program
 
-[Echelon Partners page](https://echelonfit.com/pages/partners) · [Domain-Verified Partner Benefits Starter](https://github.com/NikoCartin/shopify-domain-verified-partner-benefits-starter)
+[Echelon Partners page](https://echelonfit.com/pages/partners)
 
-Built a custom partner-verification experience that combines Shopify Customer Accounts, OAuth 2.0 with PKCE, approved corporate-domain validation, MySQL benefit state, App Proxy security, and single-use discount issuance. The public repository generalizes the architecture for employee, alumni, membership, corporate, association, and partner programs without exposing private store configuration.
+Built a custom Echelon partner-verification experience that combines Shopify Customer Accounts, OAuth 2.0 with PKCE, approved corporate-domain validation, MySQL benefit state, App Proxy security, and single-use discount issuance. The reusable public architecture based on this work is documented separately below without exposing private store configuration.
 
 - [Live partner experience](https://echelonfit.com/pages/partners)
-- [Reusable public starter](https://github.com/NikoCartin/shopify-domain-verified-partner-benefits-starter)
 - [Portfolio case study](https://nikocartin.github.io/#shopify-work)
 - Tech used: `Node.js` · `Shopify Customer Account API` · `OAuth 2.0 + PKCE` · `MySQL` · `App Proxy` · `Admin GraphQL` · `Liquid`
+
+---
+
+### DomainPass
+
+[Domain-Verified Partner Benefits Starter](https://github.com/NikoCartin/shopify-domain-verified-partner-benefits-starter)
+
+<p align="center">
+  <a href="https://github.com/NikoCartin/shopify-domain-verified-partner-benefits-starter">
+    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/assets/domain-verified-partner-benefits-banner.png" alt="Domain-Verified Partner Benefits Starter for Shopify" width="900"/>
+  </a>
+</p>
+
+DomainPass is a reusable public Shopify starter for granting an individual, single-use benefit only after the email domain on an authenticated customer account matches an approved organization. The architecture is designed for employee, alumni, membership, corporate, association, and partner programs where a generic public discount code is not enough.
+
+- [View repository and installation guide](https://github.com/NikoCartin/shopify-domain-verified-partner-benefits-starter)
+- [Portfolio case study](https://nikocartin.github.io/#shopify-work)
+- Tech used: `Node.js` · `Shopify Customer Account API` · `OAuth 2.0 + PKCE` · `MySQL` · `App Proxy` · `Admin GraphQL` · `Liquid` · `Shopify Discount Codes`
 
 ---
 
