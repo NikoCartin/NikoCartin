@@ -101,7 +101,7 @@ This work involved improving collection structures, updating product content and
 
 ---
 
-### Echelon Commercial Site Contribution (Lead Dev)
+### Echelon Commercial Site Contribution
 
 [echeloncommercial.com](https://echeloncommercial.com/)
 [echelon-commercial-portfolio](https://github.com/NikoCartin/echelon-commercial-portfolio)
