@@ -164,6 +164,12 @@ Led ongoing development and optimization of the Echelon Commercial fitness e-com
 
 [echeloncoach.com/virtualpt](https://echeloncoach.com/virtualpt/) · [echelon-coach-ssl-recovery](https://github.com/NikoCartin/echelon-coach-ssl-recovery)
 
+<p align="center">
+  <a href="https://echeloncoach.com/virtualpt/">
+    <img src="https://raw.githubusercontent.com/NikoCartin/NikoCartin/main/assets/echelon-coach-banner.png" alt="Echelon Coach Virtual Wellness Training" width="900"/>
+  </a>
+</p>
+
 Public technical case study documenting the recovery of an AWS-hosted Echelon Coach API after an expired SSL certificate interrupted the secure HTTPS path. The work covered Linux and Nginx diagnosis, Certbot and Let’s Encrypt certificate installation, HTTPS validation, and automated renewal verification.
 
 - [Live platform](https://echeloncoach.com/virtualpt/)
